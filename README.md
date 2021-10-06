@@ -4,4 +4,4 @@
 2. [Hex Background Generator](https://github.com/Ansub/js-mini-projects/tree/main/hex-background-generator)
 3. [Random Quote Generator](https://github.com/Ansub/js-mini-projects/tree/main/random-quote-generator)
 4. [Counter](https://github.com/Ansub/js-mini-projects/tree/main/counter)
-5. [Pass The Message] (https://github.com/Ansub/js-mini-projects/tree/main/pass-the-message)
+5. [Pass The Message](https://github.com/Ansub/js-mini-projects/tree/main/pass-the-message)
