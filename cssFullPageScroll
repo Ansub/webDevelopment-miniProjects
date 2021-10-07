@@ -1,0 +1,11 @@
+a full page scroll using simple css and the new property of snapping called:
+
+```
+.container {
+  scroll-snap-type: y mandatory;
+}
+
+.child {
+  scroll-snap-align: start;
+}
+```
