@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top {
+  background-color: #ff3c00;
+  text-align: center;
+  color: white;
+}
+
+.top h1 {
+  padding-top: 20rem;
+}
+
+.top p {
+  padding-top: 2rem;
+}
+
+.top svg {
+  display: block;
+}
+
+/* 
+
+
+SKILLS 
+
+
+*/
+
+.skills h1 {
+  color: #ff3c00;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills .icons {
+  font-size: 4rem;
+  color: #ff3c00;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 4rem 0rem;
+  padding: 5rem 20rem;
+  align-items: center;
+  justify-items: center;
+}
+
+.wave svg {
+  display: block;
+}
+
+.wave-end {
+  background-color: #ff3c00;
+  color: white;
+}
+
+.wave-end p {
+  text-align: center;
+  padding: 10rem;
+}
