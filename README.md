@@ -3,7 +3,7 @@
 
 ## CSS
 1. [CSS Page Scroll Snapping](https://github.com/Ansub/webDevelopment-miniProjects/tree/main/cssPageScrollSnapping)
-
+2. [CSS Waves Landing Page](https://github.com/Ansub/webDevelopment-miniProjects/tree/main/css-waves)
 
 ## Javascript
 
